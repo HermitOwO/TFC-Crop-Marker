@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "tfc:block/wild_crop/crop_top",
+  "textures": {
+    "crop": "tfc:block/crop/sugarcane_wild_top"
+  }
+}
