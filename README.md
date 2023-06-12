@@ -3,7 +3,9 @@
 
 # TFC-Crop-Marker
  Crop Marker from Vanilla Tweaks implemented to TFC.
+ 
  Includes wild crops and stationary berries, from base TFC and Firmalife.
+ 
  Spreading berries are excluded.
 
 # Credits
