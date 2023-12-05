@@ -1,6 +1,6 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "parent": "tfc:block/plant/stationary_bush_marker_1",
+  "parent": "tfc:block/plant/stationary_bush_alert_1",
   "textures": {
     "bush": "tfc:block/berry_bush/flowering_wintergreen_berry_bush"
   }

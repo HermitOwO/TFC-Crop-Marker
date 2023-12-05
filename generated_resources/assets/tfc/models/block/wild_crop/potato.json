@@ -1,6 +1,6 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "parent": "tfc:block/wild_crop/crop_bottom",
+  "parent": "tfc:block/wild_crop/crop_bottom_alert",
   "textures": {
     "crop": "tfc:block/crop/potato_wild"
   }

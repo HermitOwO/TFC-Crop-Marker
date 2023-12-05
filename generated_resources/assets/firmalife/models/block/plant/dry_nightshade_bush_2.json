@@ -1,6 +1,6 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "parent": "tfc:block/plant/stationary_bush_marker_2",
+  "parent": "tfc:block/plant/stationary_bush_alert_2",
   "textures": {
     "bush": "firmalife:block/berry_bush/dry_nightshade_bush"
   }
