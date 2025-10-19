@@ -1,6 +1,7 @@
 {
   "parent": "block/block",
   "credit": "Made with Blockbench",
+  "ambientocclusion": false,
   "textures": {
     "alert": "tfc:block/alert",
     "0": "#bush",
